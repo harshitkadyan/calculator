@@ -34,4 +34,3 @@ buttons.forEach(button => {
     }
   });
 });
-  <script src="script.js"></script>
